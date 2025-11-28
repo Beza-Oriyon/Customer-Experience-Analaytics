@@ -1,0 +1,14 @@
+.venv
+data
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.env
+data/  # If you want to ignore raw data files
+*.csv  # Or specific files; adjust as needed 
