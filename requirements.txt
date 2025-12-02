@@ -6,3 +6,8 @@ spacy
 scikit-learn
 tqdm
 pytest
+sqlalchemy
+psycopg2-binary
+seaborn
+matplotlib
+plotly
