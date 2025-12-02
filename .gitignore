@@ -10,5 +10,6 @@ dist/
 build/
 *.egg
 .env
-data/  # If you want to ignore raw data files
+visualizations
+data/  #  to ignore raw data files
 *.csv  # Or specific files; adjust as needed 
